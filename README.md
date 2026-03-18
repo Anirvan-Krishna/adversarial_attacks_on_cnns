@@ -24,7 +24,7 @@ The project explores the vulnerability of various architectures (MLPs, CNNs, and
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 * **Deep Learning:** [PyTorch](https://pytorch.org/)
 * **Adversarial Security:** [Adversarial Robustness Toolbox (ART)](https://github.com/Trusted-AI/adversarial-robustness-toolbox)
