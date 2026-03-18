@@ -16,8 +16,8 @@ st.markdown(
     "Step through the network to see how filters extract features from faces.")
 
 # --- Setup & Constants ---
-TRAIN_DIR = "Face-Recognition/Datasets/att_faces/Training"
-TEST_DIR = "Face-Recognition/Datasets/att_faces/Testing"
+TRAIN_DIR = "att_faces/Training"
+TEST_DIR = "att_faces/Testing"
 
 # Removed caching to stop Streamlit from remembering old, broken states
 
